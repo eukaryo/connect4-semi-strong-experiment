@@ -1,5 +1,7 @@
 # connect4-semi-strong-experiment
 
+[![DOI](https://zenodo.org/badge/1123375040.svg)](https://doi.org/10.5281/zenodo.18925632)
+
 Experimental code for Connect Four (7x6) using a strong-solution probe (BDD tables), including
 BFS-style layer expansion and alpha-beta–related scripts.
 
